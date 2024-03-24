@@ -1,4 +1,6 @@
 # Individuell inlämning (namn)
+Jacob Ghday
+
 
 ## Länk till gruppens gemensamma repo
-(Klistra in länken här)
+https://github.com/Jaerker/mindMastersAgile.git
