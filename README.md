@@ -1,5 +1,5 @@
-# Individuell inlämning (namn)
-Jacob Ghday
+# Individuell inlämning (Jacob Ghday)
+
 
 
 ## Länk till gruppens gemensamma repo
